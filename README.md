@@ -29,7 +29,7 @@ Aqui compartilho ferramentas e materiais práticos para apoiar empresas e profis
 | Projeto | Como ajuda empresas | Status |
 | --- | --- | --- |
 | Calculadora de Custo CLT | Estima o custo empresarial de uma contratação | Em planejamento |
-| Controle de Custos CLT e PJ | Analisa custos, centros de custo e rateios | Planejado |
+| Controle de Custos PJ | Analisa custos, centros de custo e rateios | Planejado |
 | Controle de Férias | Ajuda a organizar períodos, programações e vencimentos | Planejado |
 | Auditoria de Folha | Apoia a conferência antes do fechamento | Planejado |
 | Dashboard de DP | Transforma rotinas em indicadores para gestão | Planejado |
