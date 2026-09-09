@@ -1,49 +1,50 @@
-# Eduardo Santos | Departamento Pessoal, Dados e Processos
+# Eduardo Santos | Departamento Pessoal e Folha de Pagamento
 
-Olá! Sou profissional de **Departamento Pessoal**, com foco em transformar rotinas trabalhistas e de folha em processos mais organizados, confiáveis, auditáveis e orientados por dados.
+Ajudo empresas a organizar, conferir e melhorar suas rotinas de **Departamento Pessoal e Folha de Pagamento**.
 
-Neste perfil, compartilho projetos práticos, modelos e ferramentas voltados a desafios reais de empresas e profissionais de DP — sempre usando dados fictícios ou anonimizados.
+Meu foco é tornar processos trabalhistas mais seguros, claros e eficientes — unindo conhecimento prático de DP, controles, dados, processos e tecnologia.
 
-## Como atuo
+## Como posso ajudar sua empresa
+
+- Processamento e conferência de folha de pagamento;
+- Admissões, férias, rescisões e 13º salário;
+- Organização de documentos, prazos e rotinas de Departamento Pessoal;
+- Conferência de encargos, FGTS, eSocial e obrigações relacionadas;
+- Controle de ponto, horas extras, banco de horas e benefícios;
+- Apoio na redução de retrabalho e melhoria de processos;
+- Criação de controles, checklists, indicadores e relatórios;
+- Análise de custos de funcionários CLT e prestadores PJ;
+- Consultoria para estruturar ou aperfeiçoar a operação de DP.
+
+## Meu diferencial
 
 **Executo + Confiro + Controlo + Analiso + Automatizo + Melhoro processos.**
 
-Meu trabalho combina conhecimento operacional de Departamento Pessoal com organização de processos, análise de indicadores, controles de compliance e soluções digitais simples de aplicar.
+Mais do que realizar rotinas, busco criar uma operação de Departamento Pessoal organizada, confiável, auditável e orientada por dados.
 
-## Temas deste portfólio
+## Projetos e ferramentas em desenvolvimento
 
-- Folha de pagamento, encargos, provisões e custos CLT;
-- Admissões, férias, rescisões e 13º salário;
-- eSocial, FGTS Digital e controles trabalhistas;
-- Ponto, horas extras, banco de horas, absenteísmo e turnover;
-- Custos de pessoal, prestadores PJ, centros de custo e rateios;
-- Auditoria de folha, checklists, padronização e compliance;
-- Dashboards, indicadores e automações de rotinas de DP.
+Aqui compartilho ferramentas e materiais práticos para apoiar empresas e profissionais de DP, sempre com dados fictícios ou anonimizados.
 
-## Projetos em construção
-
-| Projeto | Problema que ajuda a resolver | Status |
+| Projeto | Como ajuda empresas | Status |
 | --- | --- | --- |
-| Calculadora de Custo CLT | Estimar o custo empresarial de uma contratação | Em planejamento |
-| Controle de Custos CLT e PJ | Analisar custos, centros de custo e rateios | Planejado |
-| Controle de Férias | Prevenir vencimentos e organizar programações | Planejado |
-| Auditoria de Folha | Apoiar conferências antes do fechamento | Planejado |
-| Dashboard de DP | Transformar dados operacionais em indicadores | Planejado |
+| Calculadora de Custo CLT | Estima o custo empresarial de uma contratação | Em planejamento |
+| Controle de Custos CLT e PJ | Analisa custos, centros de custo e rateios | Planejado |
+| Controle de Férias | Ajuda a organizar períodos, programações e vencimentos | Planejado |
+| Auditoria de Folha | Apoia a conferência antes do fechamento | Planejado |
+| Dashboard de DP | Transforma rotinas em indicadores para gestão | Planejado |
 
-## Princípios deste perfil
+## Para empresas
 
-- Dados fictícios ou anonimizados em todos os exemplos;
-- Nenhum dado pessoal, documento, salário identificável ou informação confidencial;
-- Soluções documentadas para facilitar uso, revisão e evolução;
-- Foco no problema empresarial, nos controles e no resultado esperado.
+Se sua empresa precisa de mais organização, controle e segurança nas rotinas de Departamento Pessoal, estou disponível para conversar sobre como posso ajudar.
 
 ## Contato
 
 - GitHub: [@dpeduardosantos](https://github.com/dpeduardosantos)
-- LinkedIn: https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B7WDZmANiRSGxZAJxLBtsdw%3D%3D
-- E-mail profissional: dpeduardosantos@gmail.com
-- WhatsApp profissional: 92 994771850
+- LinkedIn: www.linkedin.com/in/eduardo-santos-a3b429111
+- E-mail profissional: [dpeduardosantos@gmail.com](mailto:dpeduardosantos@gmail.com)
+- WhatsApp profissional: [Falar pelo WhatsApp](https://wa.me/5592994771850)
 
 ---
 
-*Este portfólio demonstra aplicações práticas de conhecimento em Departamento Pessoal. Cada empresa deve validar regras legais, convenções coletivas, políticas internas e configurações de seus sistemas antes de utilizar qualquer material em produção.*
+*Os projetos deste perfil utilizam exclusivamente dados fictícios ou anonimizados. Cada empresa deve validar suas regras internas, legislação aplicável e convenções coletivas antes de utilizar qualquer ferramenta em operação.*
